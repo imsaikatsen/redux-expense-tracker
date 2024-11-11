@@ -7,22 +7,10 @@
       "id": 1
     },
     {
-      "id": 2,
-      "name": "Family Expenses",
-      "type": "expense",
-      "amount": 200000
-    },
-    {
       "name": "Extra Income",
       "amount": "20000",
       "type": "income",
       "id": 3
-    },
-    {
-      "name": "test 2",
-      "amount": 100,
-      "type": "expense",
-      "id": 4
     },
     {
       "name": "Salary from Google",
@@ -31,9 +19,9 @@
       "id": 5
     },
     {
-      "name": "Family expense",
-      "type": "expense",
-      "amount": 2000,
+      "name": "Salary",
+      "type": "income",
+      "amount": 20000,
       "id": 6
     }
   ]
